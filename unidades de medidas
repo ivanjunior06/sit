@@ -1,0 +1,105 @@
+<h1>O que é Unidades de Medidas utilizadas na informática ? </h1>
+    <p>Os símbolos kB, MB e GB são unidades de medida da computação. Geralmente, são encontrados quando referido o tamanho de um arquivo digital ou a capacidade de armazenamento em computadores, celulares e outros dispositivos informáticos. No entanto, kB, MB e GB são apenas três das unidades de medida computacional.</p>
+    <h5>Unidades decimais como kilobyte (KB), megabyte (MB) e gigabyte (GB) são comumente usadas para expressar o tamanho dos dados. Unidades binárias de medida incluem kibibyte (KiB), mebibyte (MiB) e gibibyte (GiB).</h5>
+    <img src="imagens/uni.jfif" width=300/>
+
+
+    <h1>O que é bit ? </h1>
+    <p>Bit (simplificação para dígito binário, "Binary digit" em inglês) é a menor unidade de informação que pode ser armazenada ou transmitida e que pode assumir somente dois valores: 0 ou 1, verdadeiro ou falso e assim por diante.</p>
+    <h5>26 Kb/s = 26 kilobits por segundo.
+        12 Mb/s = 12 megabits por segundo.
+        3 Gb/s = 3 gigabits por segundo.</h5>
+    <img src="imagens/bit.jfif" width=300/>
+
+    <h1>O que é Byte ? </h1>
+    <p>O Byte é a reunião de oito Bits. Esta reunião recebe o nome de Octeto e é utilizada para dar instruções aos computadores. Ambos, Bits e Bytes, ocorrem numa escala imperceptível em nosso cotidiano.</p>
+    <h5>1 kilobyte (KB) = 1.024 bytes.
+        1 megabyte (MB) = 1.048.576 bytes.
+        1 gigabyte (GB) = 1.073.741.824 bytes.
+        1 terabyte (TB) = 1.099.511.627.776 bytes.
+        1 petabyte (PB) = 1.125.899.906.842.624 bytes.</h5>
+    <img src="imagens/byte.jfif" width=300/>
+
+    <h1>O que é Múltiplos ? </h1>
+    <p>Selecione Iniciar > configurações > contas > família & outros usuários.
+        Em Outros usuários, selecione Adicionar outra pessoa a este computador.
+        Insira as informações da conta Microsoft dessa pessoa e siga as instruções.
+        </p>
+    <h5>Selecione Iniciar > configurações > contas > família & outros usuários.
+        Em Outros usuários, selecione Adicionar outra pessoa a este computador.
+        Insira as informações da conta Microsoft dessa pessoa e siga as instruções.</h5>
+    <img src="imagens/bgb.jfif" width=300/>
+
+
+    <h1>O que é Frequência ? </h1>
+    <p>A frequência é definida como o número de voltas realizadas por um objeto em movimento circular em um intervalo de tempo determinado. Também pode ser definida como a quantidade de ondas geradas em um tempo específico. Uma unidade de medida muito comum para a frequência é a rotação por minuto (r.p.m).</p>
+    <h5>Prioridade	Frequência absoluta
+        Troca dos elevadores	8
+        Pintura das torres do condomínio	5
+        Reforma dos equipamentos da academia	7
+        Total	45
+        </h5>
+    <img src="imagens/mh.jfif" width=300/>
+
+    <h1>O que é  Hert ? </h1>
+    <p>Em resumo, a frequência Hertz (Hz) da taxa de atualização indica a quantidade máxima de quadros que um monitor ou TV pode exibir por segundo, que pode ser maior, igual ou menor que o FPS de um vídeo ou jogo, agindo assim como um limitador.</p>
+    <h5>HEART é um acrônimo em inglês, formado pelas palavras Happiness, Engagement, Adoption, Retention, e Task Success. HEART serve também para você lembrar em qual parte você deve focar ao elaborar métricas. Para você levar em consideração o fator humano e lembrar quem está no coração do seu negócio: seu cliente.</h5>
+    <img src="imagens/hert.jfif" width=300/>
+
+
+
+    <h1>o que é Largura de banda</h1>
+    <p>Já ouviu falar em largura de banda? Ela indica a quantidade máxima de dados que podem trafegar em uma conexão à Internet em um determinado período de tempo. A largura de banda é medida em bits por segundo (bps), embora normalmente seja mais comum utilizar múltiplos, como Kbps, ou Mbps.</p>
+    <h5>a sua conexão for de 5Mbps, significa que você pode receber até 5 megabits de dados por segundo.</h5>
+    <img src="imagens/po.png" width=300/>
+
+
+
+    <h1>O que é  Capacidade do canal ? </h1>
+    <p>A capacidade do canal é uma métrica muito usada para a quantidade máxima de tráfego ou sinal que pode se mover sobre um canal de infraestrutura específico. É útil em ciência da computação, em engenharia elétrica e em outras disciplinas que avaliam a capacidade de um canal ou canal.</p>
+    <h5>Canal AWGN.
+        Canal de frequência-seletiva.
+        Canal de desvanecimento-lento.
+        Canal de desvanecimento-rápido.
+        </h5>
+    <img src="imagens/rg.png" width=300/>
+
+    <h1>O que é bit/seg (bps) ? </h1>
+    <p>A taxa de bits refere-se à quantidade de dados por segundo que é entregue de um arquivo ASF. As medidas de taxa de bits estão em bits por segundo (bps) ou quilobits por segundo (Kbps). A taxa de bits geralmente é confundida com a largura de banda, que é uma medida da capacidade de transferência de dados de uma rede.</p>
+    <h5>def.] Unidade de medida do débito da transmissão de dados utilizada para indicar o número de bytes transmitidos por segundo.</h5>
+    <img src="imagens/gh.jfif" width=300/>
+
+
+
+    <h1>O que é Taxa de transferência ? </h1>
+    <p>Velocidade com que os dados são transmitidos de um dispositivo para outro. As taxas de transferência são normalmente medidas em bits ou bytes (ou múltiplos destes).</p>
+    <h5>converter a sua conexão para KB e dividir o resultado por 8(1 Byte é composto de 8 Bits) pois a taxa de transferencia é representada em bits.</h5>
+    <img src="imagens/tg.png" width=300/>
+
+
+
+    <h1>O que é Tráfego no canal ? </h1>
+    <p>Tráfego é o público que acessa uma página. O tráfego de um site, portanto, são todos cliques recebidos que direcionaram a uma página de destino específica ou para a home.</p>
+    <h5>Fique com a gente e descubra então quais são os 6 tipos de tráfego (mais 2 especificações que podem ser relevantes de bônus).
+        Tráfego orgânico. Esse é o tráfego mais intuitivo. ...
+        Tráfego pago. ...
+        Tráfego social. ...
+        Tráfego de e-mail marketing. ...
+        Tráfego de referência. ...
+        Tráfego direto.</h5>
+    <img src="imagens/fr.jfif" width=300/>
+
+
+    <h1>O que é Byte/seg (Bps) ? </h1>
+    <p>
+        Transmissão de Dados
+        1
+         
+        Byte / Segundo
+         = 
+        8
+         
+        Bit por segundo
+        </p>
+    <h5>O termo byte é frequentemente utilizado para especificar quantidade de memória de um determinado dispositivo ou sua capacidade de armazenamento. Cada byte representa um único caractere de texto num computador: letras, símbolos, números, sinais de pontuação, caracteres especiais, etc.</h5>
+    <img src="imagens/dg.jfif" width=300/>
